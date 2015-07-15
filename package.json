@@ -1,6 +1,7 @@
 { "name": "is-sha-256-hex-digest",
   "version": "0.0.0",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "description": "predicate for 64-character hex strings",
   "license": "MIT",
   "devDependencies": {
     "tape": "4.x" },
